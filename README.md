@@ -3,7 +3,7 @@
 [
 [
 
-**The ultimate game launcher for premium titles**  
+**Game Launcher**  
 A modern, fast, and user-friendly launcher for 40+ current AAA games. Supports downloads, resuming, pausing, and live settings without restart.
 
 ## 🎮 Features
